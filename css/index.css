@@ -141,8 +141,9 @@
 .bg{
 	margin-top:200px;
 	margin-bottom:50px;
-	background-image:url(../images/banner_bg.jpg);
-	width:1920px;
+	background:url(../images/banner_bg.jpg) no-repeat center center;
+	-webkit-background-size: cover;
+	min-width:1280px;
 	height:484px;
 }
 
