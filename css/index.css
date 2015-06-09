@@ -1,0 +1,205 @@
+
+/*二维码*/
+.banner-warp {
+	width:100%;
+	min-width:1920px;
+	height: 530px;
+	background: #FFBF2A;
+}
+
+.banner-content{
+	width:1280px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.iPhone_bg {
+	margin-left:15%;
+	margin-top:29px;
+	float:left;
+}
+
+.slogan{
+	float:right;
+	margin-top:80px;
+	margin-right:12%;
+}
+
+.code{
+	width:170px;
+	height:150px;
+	float:left;
+	margin-top:50px;
+	margin-left:20px;
+	text-align:center;
+}
+
+.qr-code {
+	width: 142px;
+	height: 142px;
+}
+
+.qr-title {
+	margin: 8px auto;
+	color: #fff;
+	font-size: 14px;
+	text-align: center;
+	letter-spacing: 1px;
+}
+
+/*content*/
+.content-warp {
+	width:1280px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+/*标语*/
+.content-index {
+	width: 1000px;
+	height: 300px;
+	margin-left:auto;
+	margin-right:auto;
+	color: #444455;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+.content-index p{
+	margin-top: 12px;
+	color: #444455;
+	font-size: 15px;
+}
+
+.circle-f{
+	float:left;
+	margin-left:80px;
+	margin-top:60px;
+}
+
+.circle-bg{
+	width:150px;
+    height:150px;
+    border-radius:100px;
+    border:1px solid #CCC;
+}
+
+.circle-bg img{
+	margin-top:30px;
+}
+
+/*团队介绍*/
+.content-team{
+	margin-top:136px;
+	width:1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.content-team p{
+	margin-top: 12px;
+	color: #444455;
+	font-size: 15px;
+	line-height: 30px;
+}
+
+#team-title {
+	font-weight: bold;
+	color: #000;
+}
+
+.content-team img{
+	margin-top:30px;
+}
+
+.content-num{
+	width:1100px;
+	padding-left:180px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:40px;
+}
+.num{
+	width:300px;
+	float:left;
+}
+
+.con{
+	margin-top: 12px;
+	color: #999;
+	font-size: 15px;
+}
+
+.title{
+	margin-top: 12px;
+	color: #FFBF2A;
+	font-size:50px;
+	font-weight:bold;
+}
+
+/*img*/
+.bg{
+	margin-top:200px;
+	margin-bottom:50px;
+	background-image:url(../images/banner_bg.jpg);
+	width:1920px;
+	height:484px;
+}
+
+/*各种传送门*/
+.don{
+	min-width:1280px;
+	max-width:1280px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.d-navigation{
+	width:880px;
+	margin-left:auto;
+	margin-right:auto;
+	color: #4e4d4d;
+}
+
+.d-navigation ul{
+	text-align: center;
+}
+
+.d-navigation li{
+	margin-top:5px;
+	width:210px;
+	color: #000;
+	font-family: "PingHei","Microsoft YaHei","微软雅黑","Lucida Grande", "Lucida Sans Unicode", "Helvetica","Arial","Verdana","sans-serif";
+	font-size:14px;
+	float:left;
+
+}
+
+.d-navigation li a:hover {
+	color: #F00;
+}
+.d-navigation li a:active {
+	color: #F00;
+}
+
+.d-text{
+	margin-top:30px;
+	margin-bottom: 30px;
+	width:300px;
+	color: #999;
+	font-size:12px;
+	line-height:20px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+.d-text p{
+	line-height:30px;
+}
+
+p{
+	font-family: "PingHei","Microsoft YaHei","微软雅黑","Lucida Grande", "Lucida Sans Unicode", "Helvetica","Arial","Verdana","sans-serif";
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+}
+
