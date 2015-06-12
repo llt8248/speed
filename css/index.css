@@ -1,6 +1,7 @@
 
 /*中间广告轮换部份*/
 #carousel{
+	min-width:1280px;
 	clear: both;
 	height: 554px;
 	position: relative;

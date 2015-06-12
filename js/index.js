@@ -73,23 +73,6 @@ toCarousel = function(){
 		aSpan[iNow].className = 'sel';
 		
 	}
-	aSpan[2].onclick = function(){
-		
-		var iClass = this.className;
-		
-		if(iClass == 'sel'){return }
-		
-		fadeOut(aLi[iNow]);
-		aSpan[iNow].className = '';
-
-		iNow = 2;
-		
-		fadeIn(aLi[iNow]);
-
-		aSpan[iNow].className = 'sel';
-		
-	}
-
 }
 
 //淡入
